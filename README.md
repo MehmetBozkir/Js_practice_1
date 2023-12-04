@@ -1,5 +1,5 @@
 # Js_practice_1
-A temporary repository where I test what I learned while studying JS
+A temporary repository where I test what I learned while studying JS.
 
 <p align="center"> 
 
